@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OCRDictionary</string>
+    <string name="take_photo">TAKE PHOTO</string>
+    <string name="result">Result</string>
+    <string name="gallery">Gallery</string>
+    <string name="text">Text</string>
+</resources>
